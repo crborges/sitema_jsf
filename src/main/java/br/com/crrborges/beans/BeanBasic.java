@@ -9,6 +9,7 @@ public class BeanBasic {
 
 	
 	
+	
 	public String teste;
 
 	public BeanBasic() 					{							}
